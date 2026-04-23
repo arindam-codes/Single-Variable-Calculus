@@ -26,8 +26,8 @@ topics covered till now
 ## [One look pages](one-look-pages)
 <table>
   <tr>
-    <td><img src="one-look-pages/IMG_20260416_160707.jpg" width="400"/></td>
-    <td><img src="one-look-pages/IMG_20260423_155851.jpg" width="400"/></td>
+    <td><img src="one-look-pages/integration/IMG_20260416_160707.jpg" width="400"/></td>
+    <td><img src="one-look-pages/integration/IMG_20260423_155851.jpg" width="400"/></td>
   </tr>
 </table>
 
