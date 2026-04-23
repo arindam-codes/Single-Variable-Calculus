@@ -12,7 +12,7 @@ it includes
 
 topics covered till now 
 - Functions and Models
-  - Different types of Functions Functions
+  - Different types of Functions 
   - Vertical line Test
   - linear Functions, Power Functions, Root Functions, Reciprocal Functions, Rational Functions, Algebric Functions, Exponential Functions, Inverse Log Functions
   - Inverse Trigonometric Functions
