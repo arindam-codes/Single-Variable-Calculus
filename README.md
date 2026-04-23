@@ -11,17 +11,81 @@ it includes
 - Real thinking process
 
 topics covered till now 
-- Integration Techniques
-- Areas Between Curves
-- Volumes of Solids of Revolution
-- Surface Area of Revolution
-- Indeterminate Forms
-- Integration by Parts
-- Trig Integrals
-- Trig Substitution
-- Improper Integrals
-- Partial Fractions
-- Comparison Test
+- Functions and Models
+  - Different types of Functions Functions
+  - Vertical line Test
+  - linear Functions, Power Functions, Root Functions, Reciprocal Functions, Rational Functions, Algebric Functions, Exponential Functions, Inverse Log Functions
+  - Inverse Trigonometric Functions
+  - Rotation of axes
+  - Combinations of Functions
+  - Trig Identities
+  - Triangle formula
+  - Sigma Notations
+
+- Limits and Derivatives
+  - Rate of Change
+  - How a limit cant exist
+  - How a limit exists
+  - Limit Laws
+  - Continous Functions
+  - Methods to solve
+  - Squeeze Theorem
+  - Precise Definitions of limits
+  - Infinte Limits
+  - Limits at Infinity
+  - Infinte Limits at infinity
+  - Methods to solve them
+  - Continuity
+  - A function is continous at number a
+  - Discontinuity
+  - Continous at an interval
+  - Methods of Continous Functions
+  - Intermediate Value Theorem
+  - Definition of Derivitive
+  - Tangent line at a point on a curve
+  - Differentiability
+  - Higher Derivatives
+
+- Derivatives of Polynomial and Exponential Functions
+  - Constant Functions
+  - Power Rule
+  - The Reason Discontinuity exists
+  - Product and Quotient Rule
+  - Constant Multiple Rule
+  - Rate of Change
+  - Derivatives of Trig Functions
+  - Chain Rule
+  - The Proof of Eulers number
+  - Why Euler number is approx 2.71828
+  - Non Differentiability
+  - Implicit Differentiation
+  - Growth Functions
+  - Euler Number (e) as a limit
+  - Linear Approximations
+  - Quadratic Approximation
+  - Derivative of Inverse Trigonometric Functions
+  - Derivative of an Inverse
+  - Hyperbolic Functions
+  - Hyperbolic Identities
+  - Derivative of Hyperbolic Functions
+  - Derivative of Inverse Hyperbolic Functions
+  - Hyperbolic functions into Log Functions
+  - Maximum and Minimum
+  - Supremum or Least Upper Bound
+  - Infimum or Greatest Lower Bound
+    
+- Integration
+  - Integration Techniques
+  - Areas Between Curves
+  - Volumes of Solids of Revolution
+  - Surface Area of Revolution
+  - Indeterminate Forms
+  - Integration by Parts
+  - Trig Integrals
+  - Trig Substitution
+  - Improper Integrals
+  - Partial Fractions
+  - Comparison Test
 
 ## [One look pages](one-look-pages)
 <table>
