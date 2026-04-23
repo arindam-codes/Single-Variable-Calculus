@@ -93,6 +93,9 @@ topics covered till now
   - Comparison Test
 
 ## [One look pages](one-look-pages)
+
+## Functions and Models
+
 <table>
   <tr>
     <td><img src="one-look-pages/functions-and-models/IMG_20260423_161640.jpg" width="400"/></td>
@@ -109,6 +112,8 @@ topics covered till now
   </tr>
 </table>
 
+## Limits and Derivatives
+
 <table>  
   <tr>
     <td><img src="one-look-pages/limits-and-derivatives/IMG_20260423_161912.jpg" width="400"/></td>
@@ -119,6 +124,8 @@ topics covered till now
     <td><img src="one-look-pages/limits-and-derivatives/IMG_20260423_162003.jpg" width="400"/></td>
   </tr>
 </table>
+
+## Derivatives of Polynomial and Exponential Functions
 
 <table>  
   <tr>
@@ -131,11 +138,15 @@ topics covered till now
   </tr>
 </table>
 
+## Integration
+
 <table>
   <tr>
     <td><img src="one-look-pages/integration/IMG_20260423_194428.jpg" width="400"/></td>
   </tr>
 </table>
+
+## Application of Integration
 
 <table>
   <tr>
