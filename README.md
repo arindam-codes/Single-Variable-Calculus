@@ -23,13 +23,13 @@ topics covered till now
 - Partial Fractions
 - Comparison Test
 
-## One look pages
-<p align="center">
-  <img src="one-look-pages/IMG_20260416_160707.jpg" width="1900"/>
-</p>
-<p align="center">
-  <img src="one-look-pages/IMG_20260423_155851.jpg" width="1900"/>
-</p>
+## [One look pages](../one-look-pages)
+<table>
+  <tr>
+    <td><img src="one-look-pages/IMG_20260416_160707.jpg" width="400"/></td>
+    <td><img src="one-look-pages/IMG_20260423_155851.jpg" width="400"/></td>
+  </tr>
+</table>
 
 
 The repo is for 
