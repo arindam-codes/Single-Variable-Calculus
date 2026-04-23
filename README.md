@@ -73,8 +73,13 @@ topics covered till now
   - Maximum and Minimum
   - Supremum or Least Upper Bound
   - Infimum or Greatest Lower Bound
+  - Application of Differentiation
     
 - Integration
+  - Common Integrations
+  - Integral of Rate Change is Net Change
+  - Riemann Sums
+  - Mid-Point Approximation 
   - Integration Techniques
   - Areas Between Curves
   - Volumes of Solids of Revolution
@@ -155,12 +160,6 @@ My Future goals
 - I want to include applications in physics and engineering
 - I want to Connect calculus with programming
 ---
-
-
-
-
-
-
 
 calculus, single variable calculus, 
 MIT 18.01, integration, derivatives, 
