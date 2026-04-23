@@ -23,7 +23,7 @@ topics covered till now
 - Partial Fractions
 - Comparison Test
 
-## [One look pages](../one-look-pages)
+## [One look pages](one-look-pages)
 <table>
   <tr>
     <td><img src="one-look-pages/IMG_20260416_160707.jpg" width="400"/></td>
