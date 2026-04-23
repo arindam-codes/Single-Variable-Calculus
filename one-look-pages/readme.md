@@ -39,7 +39,7 @@
 
 <table>
   <tr>
-    <td><img src="integration/IMG_20260416_160707.jpg" width="400"/></td>
-    <td><img src="integration/IMG_20260423_155851.jpg" width="400"/></td>
+    <td><img src="application-of-integration/IMG_20260416_160707.jpg" width="400"/></td>
+    <td><img src="application-of-integration/IMG_20260423_155851.jpg" width="400"/></td>
   </tr>
 </table>
