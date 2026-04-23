@@ -17,6 +17,20 @@ topics covered till now
 - Surface Area of Revolution
 - Indeterminate Forms
 - Integration by Parts
+- Trig Integrals
+- Trig Substitution
+- Improper Integrals
+- Partial Fractions
+- Comparison Test
+
+## One look pages
+<p align="center">
+  <img src="one-look-pages/IMG_20260416_160707.jpg" width="1900"/>
+</p>
+<p align="center">
+  <img src="one-look-pages/IMG_20260423_155851.jpg" width="1900"/>
+</p>
+
 
 The repo is for 
 - Students learning calculus from scratch
