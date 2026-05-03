@@ -6,9 +6,11 @@ Handwritten notes (for real understanding)
 Problem-solving approach
 
 it includes
-- Intuition over memorization
-- Mistakes and corrections
-- Real thinking process
+- Functions and Models
+- Limits and Derivatives
+- Derivatives of Polynomial and Exponential Functions
+- Integration
+- Application of Integration
 
 topics covered till now 
 ```mermaid
