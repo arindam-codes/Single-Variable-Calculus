@@ -11,86 +11,131 @@ it includes
 - Real thinking process
 
 topics covered till now 
-- Functions and Models
-  - Different types of Functions 
-  - Vertical line Test
-  - linear Functions, Power Functions, Root Functions, Reciprocal Functions, Rational Functions, Algebric Functions, Exponential Functions, Inverse Log Functions
-  - Inverse Trigonometric Functions
-  - Rotation of axes
-  - Combinations of Functions
-  - Trig Identities
-  - Triangle formula
-  - Sigma Notations
+```mermaid
+mindmap
+   root((Functions and Models))
+    Function Types
+      Function Types
+      ::icon(fa fa-book)
+        Linear Functions
+        Power Functions
+        Root Functions
+        Reciprocal Functions
+        Rational Functions
+        Algebraic Functions
+        Exponential Functions
+        Logarithmic Functions
+        Inverse Trigonometric Functions
+      Function Analysis
+        Vertical Line Test
+        Domain and Range
+        Combinations of Functions
+      Transformations
+        Rotation of Axes
+        Shifts and Scaling
+      Trigonometric Foundations
+        Trig Identities
+        Triangle Formula
+        Inverse Trig Functions
+      Notation
+        Sigma Notation
+```
 
-- Limits and Derivatives
-  - Rate of Change
-  - How a limit cant exist
-  - How a limit exists
-  - Limit Laws
-  - Continous Functions
-  - Methods to solve
-  - Squeeze Theorem
-  - Precise Definitions of limits
-  - Infinte Limits
-  - Limits at Infinity
-  - Infinte Limits at infinity
-  - Methods to solve them
-  - Continuity
-  - A function is continous at number a
-  - Discontinuity
-  - Continous at an interval
-  - Methods of Continous Functions
-  - Intermediate Value Theorem
-  - Definition of Derivitive
-  - Tangent line at a point on a curve
-  - Differentiability
-  - Higher Derivatives
+```mermaid
+mindmap
+  root((Limits and Derivatives))
+    Limits
+      Core Concepts
+        Rate of Change
+        How a Limit Exists
+        How a Limit Cannot Exist
+        Precise Definition of Limits
+        Limit Laws
+      Solving Limits
+        Methods to Solve
+        Squeeze Theorem
+      Infinite Limits
+        Infinite Limits
+        Limits at Infinity
+        Infinite Limits at Infinity
+        Methods to Solve Them
+    Continuity
+      Definition
+        A Function is Continuous at Number a
+      Types
+        Discontinuity
+        Continuous on an Interval
+      Theorems
+        Methods of Continuous Functions
+        Intermediate Value Theorem
+    Derivatives
+      Definition of Derivative
+      Tangent Line at a Point on a Curve
+      Differentiability
+      Higher Derivatives
+```
 
-- Derivatives of Polynomial and Exponential Functions
-  - Constant Functions
-  - Power Rule
-  - The Reason Discontinuity exists
-  - Product and Quotient Rule
-  - Constant Multiple Rule
-  - Rate of Change
-  - Derivatives of Trig Functions
-  - Chain Rule
-  - The Proof of Eulers number
-  - Why Euler number is approx 2.71828
-  - Non Differentiability
-  - Implicit Differentiation
-  - Growth Functions
-  - Euler Number (e) as a limit
-  - Linear Approximations
-  - Quadratic Approximation
-  - Derivative of Inverse Trigonometric Functions
-  - Derivative of an Inverse
-  - Hyperbolic Functions
-  - Hyperbolic Identities
-  - Derivative of Hyperbolic Functions
-  - Derivative of Inverse Hyperbolic Functions
-  - Hyperbolic functions into Log Functions
-  - Maximum and Minimum
-  - Supremum or Least Upper Bound
-  - Infimum or Greatest Lower Bound
-  - Application of Differentiation
+```mermaid
+mindmap
+  root((Derivatives))
+    Basic Derivative Rules
+      Constant Functions
+      Power Rule
+      Constant Multiple Rule
+      The Reason Discontinuity Exists
+      Rate of Change
+    Advanced Rules
+      Product and Quotient Rule
+      Chain Rule
+      Implicit Differentiation
+    Exponential and Logarithmic
+      Euler Number e
+        Proof of Euler's Number
+        Why e ≈ 2.71828
+        Euler Number as a Limit
+      Growth Functions
+      Hyperbolic Functions
+        Hyperbolic Identities
+        Derivative of Hyperbolic Functions
+        Derivative of Inverse Hyperbolic Functions
+        Hyperbolic Functions into Log Functions
+    Trigonometric Derivatives
+      Derivatives of Trig Functions
+      Derivative of Inverse Trigonometric Functions
+      Derivative of an Inverse
+    Approximations
+      Linear Approximations
+      Quadratic Approximation
+    Non-Differentiability
+    Extrema and Bounds
+      Maximum and Minimum
+      Supremum or Least Upper Bound
+      Infimum or Greatest Lower Bound
+    Applications
+      Application of Differentiation
+```
     
-- Integration
-  - Common Integrations
-  - Integral of Rate Change is Net Change
-  - Riemann Sums
-  - Mid-Point Approximation 
-  - Integration Techniques
-  - Areas Between Curves
-  - Volumes of Solids of Revolution
-  - Surface Area of Revolution
-  - Indeterminate Forms
-  - Integration by Parts
-  - Trig Integrals
-  - Trig Substitution
-  - Improper Integrals
-  - Partial Fractions
-  - Comparison Test
+```mermaid
+mindmap
+  root((Integration))
+    Core Concepts
+      Common Integrations
+      Integral of Rate of Change is Net Change
+    Riemann Sums
+      Mid-Point Approximation
+    Integration Techniques
+      Integration by Parts
+      Trig Integrals
+      Trig Substitution
+      Partial Fractions
+    Applications
+      Areas Between Curves
+      Volumes of Solids of Revolution
+      Surface Area of Revolution
+    Improper Integrals
+      Comparison Test
+    Indeterminate Forms
+```
 
 ## [One look pages](one-look-pages)
 
